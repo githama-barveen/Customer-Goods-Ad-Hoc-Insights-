@@ -1,4 +1,6 @@
 # Consumer Goods Ad-Hoc Insights
+Ad hoc SQL analysis delivering data-driven insights for Atliq Hardware.
+
 ## Project Overview
 
 Atliq Hardware is one of India's leading computer hardware manufacturers. Management requested ad-hoc analysis to support data-driven decisions. Ten business questions were solved using SQL to generate meaningful insights.
