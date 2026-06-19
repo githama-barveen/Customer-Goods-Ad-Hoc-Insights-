@@ -16,6 +16,18 @@ dim_product
 fact_manufacturing_cost
 fact_pre_invoice_deductions
 
+## Skills Demonstrated
+
+- SQL
+- MySQL
+- Joins
+- CTEs
+- Window Functions
+- Aggregate Functions
+- Data Analysis
+- Business Intelligence
+- Consumer Goods Analytics
+
 # Business Requests
 1. Markets where Atliq Exclusive operates in APAC
 
