@@ -70,3 +70,8 @@ Insight: Retailer channels contributed the highest gross sales in FY2021.
 10. Top 3 products by division
 
 Insight: N&S division recorded the highest sales volume.
+
+📊 Download Full Presentation  
+
+👉 [Click here to view PPT](https://github.com/githama-barveen/Customer-Goods-Ad-Hoc-Insights-/blob/main/ad_hoc_consumer_goods_pdf.pdf)
+
